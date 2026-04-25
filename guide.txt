@@ -1,0 +1,21 @@
+mkdir ask-my-pdf
+cd ask-my-pdf
+python -m venv venv
+
+# Activate it:
+# On Windows:
+venv\Scripts\activate
+# On Mac/Linux:
+source venv/bin/activate
+
+pip install langchain langchain-community langchain-openai chromadb pypdf python-dotenv
+pip install langchain-text-splitters
+
+Create a .env file in the folder:
+OPENAI_API_KEY=your-key-here
+
+pip install fastapi uvicorn python-multipart
+
+pip install langchain-experimental
+
+llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash", temperature=0)
