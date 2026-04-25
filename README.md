@@ -20,7 +20,6 @@ Built with **FastAPI**, **LangChain**, **ChromaDB**, and **Google Gemini**.
 ---
 
 ## 🏗️ Architecture
-
 Browser (HTML/JS)
 ↓
 FastAPI Backend
@@ -139,7 +138,7 @@ curl -X POST http://localhost:8000/ask \
 ## 👤 Author
 
 **Abubakar Jibrin**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@laduta](https://github.com/laduta)
 - LinkedIn: [Abubakar Jibrin](https://www.linkedin.com/in/abubakar-jibrin-996437279)
 
 ---
