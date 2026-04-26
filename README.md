@@ -15,7 +15,6 @@ Built with **FastAPI**, **LangChain**, **ChromaDB**, and **Google Gemini**.
 - 🧠 Parent-child chunking for better context
 - 🔬 Answer grounding — no hallucination
 - 🖼️ OCR support for scanned documents
-- ⚡ Persistent vector store — no reprocessing on restart
 
 ---
 
