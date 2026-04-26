@@ -124,14 +124,6 @@ curl -X POST http://localhost:8000/ask \
 
 ---
 
-## 🔮 Roadmap
-
-- [ ] Multi-document support
-- [ ] User authentication
-- [ ] Conversation memory
-- [ ] Document management dashboard
-- [ ] Fine-tuned embeddings
-
 ---
 
 ## 👤 Author
