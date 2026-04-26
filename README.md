@@ -4,7 +4,7 @@ A production-grade Retrieval-Augmented Generation (RAG) system that lets you upl
 
 Built with **FastAPI**, **LangChain**, **ChromaDB**, and **Google Gemini**.
 
-![Ask My PDF Demo](demo.png)
+![Ask My PDF Demo](https://laduta.github.io/ask-my-pdf/)
 
 ---
 
